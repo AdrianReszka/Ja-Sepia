@@ -1,0 +1,18 @@
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\bin\x64\Release\Sepia.exe.config
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\bin\x64\Release\Sepia.exe
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\bin\x64\Release\Sepia.pdb
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.csproj.AssemblyReference.cache
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.Properties.Resources.resources
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.csproj.GenerateResource.cache
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.csproj.CoreCompileInputs.cache
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.exe
+C:\Users\adico\OneDrive - Politechnika Śląska\Pulpit\Studia\Github\Sepia-Ja-Project\Sepia\Sepia\obj\x64\Release\Sepia.pdb
+C:\Users\adico\Desktop\Sepia\Sepia\bin\x64\Release\Sepia.exe.config
+C:\Users\adico\Desktop\Sepia\Sepia\bin\x64\Release\Sepia.exe
+C:\Users\adico\Desktop\Sepia\Sepia\bin\x64\Release\Sepia.pdb
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.csproj.AssemblyReference.cache
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.Properties.Resources.resources
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.csproj.GenerateResource.cache
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.csproj.CoreCompileInputs.cache
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.exe
+C:\Users\adico\Desktop\Sepia\Sepia\obj\x64\Release\Sepia.pdb

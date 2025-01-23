@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adico\\Desktop\\Sepia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C933BA-6C8C-4973-B03B-460F80275F42}|Sepia\\Sepia.csproj|c:\\users\\adico\\desktop\\sepia\\sepia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C933BA-6C8C-4973-B03B-460F80275F42}|Sepia\\Sepia.csproj|solutionrelative:sepia\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43C933BA-6C8C-4973-B03B-460F80275F42}|Sepia\\Sepia.csproj|C:\\Users\\adico\\Desktop\\Sepia\\sepia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C933BA-6C8C-4973-B03B-460F80275F42}|Sepia\\Sepia.csproj|solutionrelative:sepia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38107810-8230-4FF2-AE2D-3C007881A0B3}|DLLASM\\DLLASM.vcxproj|C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.asm||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38107810-8230-4FF2-AE2D-3C007881A0B3}|DLLASM\\DLLASM.vcxproj|solutionrelative:DLLASM\\JAAsm.asm||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38107810-8230-4FF2-AE2D-3C007881A0B3}|DLLASM\\DLLASM.vcxproj|C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.def||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{38107810-8230-4FF2-AE2D-3C007881A0B3}|DLLASM\\DLLASM.vcxproj|solutionrelative:DLLASM\\JAAsm.def||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F98DFC9-D530-4A72-8345-8434119473E4}|DLLCPP\\DLLCPP.vcxproj|C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\CppFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F98DFC9-D530-4A72-8345-8434119473E4}|DLLCPP\\DLLCPP.vcxproj|solutionrelative:DLLCPP\\CppFunctions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F98DFC9-D530-4A72-8345-8434119473E4}|DLLCPP\\DLLCPP.vcxproj|C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2F98DFC9-D530-4A72-8345-8434119473E4}|DLLCPP\\DLLCPP.vcxproj|solutionrelative:DLLCPP\\dllmain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\Sepia\\MainForm.cs",
+              "RelativeDocumentMoniker": "Sepia\\MainForm.cs",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\Sepia\\MainForm.cs",
+              "RelativeToolTip": "Sepia\\MainForm.cs",
+              "ViewState": "AgIAAPoAAAAAAAAAAAAIwA0BAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T23:26:50.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\Sepia\\Program.cs",
+              "RelativeDocumentMoniker": "Sepia\\Program.cs",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\Sepia\\Program.cs",
+              "RelativeToolTip": "Sepia\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T19:32:53.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JAAsm.asm",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.asm",
+              "RelativeDocumentMoniker": "DLLASM\\JAAsm.asm",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.asm",
+              "RelativeToolTip": "DLLASM\\JAAsm.asm",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAwwJgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-20T10:50:59.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dllmain.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\dllmain.cpp",
+              "RelativeDocumentMoniker": "DLLCPP\\dllmain.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\dllmain.cpp",
+              "RelativeToolTip": "DLLCPP\\dllmain.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-19T23:26:57.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CppFunctions.cpp",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\CppFunctions.cpp",
+              "RelativeDocumentMoniker": "DLLCPP\\CppFunctions.cpp",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\DLLCPP\\CppFunctions.cpp",
+              "RelativeToolTip": "DLLCPP\\CppFunctions.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-08T19:32:53.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "JAAsm.def",
+              "DocumentMoniker": "C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.def",
+              "RelativeDocumentMoniker": "DLLASM\\JAAsm.def",
+              "ToolTip": "C:\\Users\\adico\\Desktop\\Sepia\\DLLASM\\JAAsm.def",
+              "RelativeToolTip": "DLLASM\\JAAsm.def",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001913|",
+              "WhenOpened": "2024-11-08T19:32:53.197Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{4a9b7e51-aa16-11d0-a8c5-00a0c921a4d2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{588470cc-84f8-4a57-9ac4-86bca0625ff4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{68487888-204a-11d3-87eb-00c04f7971a5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  CppFunctions.cpp
+  dllmain.cpp
+     Trwa tworzenie biblioteki C:\Users\adico\Desktop\Sepia\x64\Release\DLLCPP.lib i obiektu C:\Users\adico\Desktop\Sepia\x64\Release\DLLCPP.exp
+  Trwa generowanie kodu
+  2 of 2 functions (100.0%) were compiled.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  DLLCPP.vcxproj -> C:\Users\adico\Desktop\Sepia\x64\Release\DLLCPP.dll
